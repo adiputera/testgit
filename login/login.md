@@ -1,5 +1,5 @@
 modul login
 
 fungsi login() {
-ini fungsi login
+ini fungsi login;
 }
